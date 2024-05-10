@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Nike Air Max Pulse",
+      "price":13995,
+      "category": "women",
+      "src":"/images/clear1.png"
+    },
+    {
+      "id": "2",
+      "name": "Nike Air Max 97 SE",
+      "price": 13995,
+      "category": "women",
+      "src":"/images/clear2.png"
+    },
+    {
+      "id": "3",
+      "name": "Air Max 1",
+      "price": 13995,
+      "category": "women",
+      "src":"/images/clear1.png"
+    },
+    {
+      "id": "4",
+      "name": "Air Max 1 '86 OG G",
+      "price": 13995,
+      "category": "men",
+      "src":"/images/clear2.png"
+    }
+  ]

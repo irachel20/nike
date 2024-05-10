@@ -1,0 +1,21 @@
+.bye svg{
+    width: 1rem;
+    margin-left: auto;
+}
+.bye button {
+    height: 30px;
+}
+
+.bye span {
+padding-bottom: 0.7rem;
+text-overflow: clip;
+overflow: hidden;
+white-space: nowrap;
+}
+.hi div{
+   position: static;
+}
+
+.hi span{
+    position: static;
+ }
